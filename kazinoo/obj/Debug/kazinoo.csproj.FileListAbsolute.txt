@@ -1,0 +1,12 @@
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.csproj.AssemblyReference.cache
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.Form1.resources
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.Properties.Resources.resources
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.csproj.GenerateResource.cache
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.csproj.CoreCompileInputs.cache
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\bin\Debug\kazinoo.exe.config
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\bin\Debug\kazinoo.exe
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\bin\Debug\kazinoo.pdb
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.exe
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.pdb
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.Form2.resources
+C:\Users\ОзереденкоД\source\repos\kazinoo\kazinoo\obj\Debug\kazinoo.Form3.resources
